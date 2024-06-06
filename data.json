@@ -1,0 +1,572 @@
+{
+  "dias": [
+    {
+      "nombre": "LUNES"
+    },
+    {
+      "nombre": "MARTES"
+    },
+    {
+      "nombre": "MIERCOLES"
+    },
+    {
+      "nombre": "JUEVES"
+    },
+    {
+      "nombre": "VIERNES"
+    }
+  ],
+  "horarios": [
+    {
+      "horaInicio": "8:00",
+      "horaFin": "8:45"
+    },
+    {
+      "horaInicio": "8:45",
+      "horaFin": "9:30"
+    },
+    {
+      "horaInicio": "9:30",
+      "horaFin": "10:15"
+    },
+    {
+      "horaInicio": "10:15",
+      "horaFin": "11:00"
+    },
+    {
+      "horaInicio": "11:00",
+      "horaFin": "11:45"
+    },
+    {
+      "horaInicio": "11:45",
+      "horaFin": "12:30"
+    },
+    {
+      "horaInicio": "12:30",
+      "horaFin": "13:15"
+    }
+  ],
+  "materias": [
+    {
+      "nombre": "Análisis Matemático I",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": [1,2,3],
+          "comision":"1K01"
+        },
+        {
+          "dia": 2,
+          "hora": [4,5],
+          "comision":"1K02"
+        },
+        {
+          "dia": 3,
+          "hora": [4,5,6],
+          "comision":"1K02"
+        },
+        {
+          "dia": 1,
+          "hora": [1,2],
+          "comision":"1K03"
+        },
+        {
+          "dia": 5,
+          "hora": [4,5,6],
+          "comision":"1K03"
+        },
+        {
+          "dia": 2,
+          "hora": [1,2],
+          "comision":"1K04"
+        },
+        {
+          "dia": 5,
+          "hora": [4,5,6],
+          "comision":"1K04"
+        },
+        {
+          "dia": 4,
+          "hora": [6,7],
+          "comision":"1K05"
+        },
+        {
+          "dia": 5,
+          "hora": [1,2],
+          "comision":"1K05"
+        },
+        {
+          "dia": 1,
+          "hora": [4,5,6],
+          "comision":"1K06"
+        },
+        {
+          "dia": 4,
+          "hora": [4,5],
+          "comision":"1K06"
+        },
+        {
+          "dia": 3,
+          "hora": [12,13,14],
+          "comision":"1K07"
+        },
+        {
+          "dia": 4,
+          "hora": [9,10],
+          "comision":"1K07"
+        },
+        {
+          "dia": 3,
+          "hora": [9,10,11],
+          "comision":"1K08"
+        },
+        {
+          "dia": 4,
+          "hora": [11,12],
+          "comision":"1K08"
+        },
+        {
+          "dia": 3,
+          "hora": [12,13,14],
+          "comision":"1K07"
+        },
+        {
+          "dia": 4,
+          "hora": [9,10],
+          "comision":"1K07"
+        },
+        {
+          "dia": 3,
+          "hora": [12,13,14],
+          "comision":"1K07"
+        },
+        {
+          "dia": 4,
+          "hora": [9,10],
+          "comision":"1K07"
+        }
+      ],
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Álgebra y Geometría Analítica",
+      "horario": [
+        {
+          "dia": 3,
+          "hora": [4,5,6],
+          "comision":"1K04"
+        },
+        {
+          "dia": 4,
+          "hora": [3,4],
+          "comision":"1K04"
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Matemática Discreta",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Sistemas y Organizaciones",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Algoritmo y Estructuras de Datos",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Arquitectura de Computadoras",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Física I",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Inglés I",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Química",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Análisis Matemático II",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Física II",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Análisis de Sistemas",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Sintaxis y Semántica de los Lenguajes",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Paradigmas de Programación",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Sistemas Operativos",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Sistemas de Representación",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Probabilidades y Estadísticas",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Diseño de Sistemas",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Comunicaciones",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Matemática Superior",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Gestión de Datos",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Ingeniería y Sociedad",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Economía",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Inglés II",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Redes de Información",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Administración de Recursos",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Investigación Operativa",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Simulación",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Ingeniería de Software",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Teoría de Control",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Legislación",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Proyecto Final",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Inteligencia Artificial",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Administración Gerencial",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    },
+    {
+      "nombre": "Sistemas de Gestión",
+      "horario": [
+        {
+          "dia": 1,
+          "hora": []
+        }
+      ],
+      "profesor": "",
+      "turno": "MAÑANA"
+    }
+  ],
+  "nombreDeMaterias": [
+    "Análisis Matemático I",
+    "Álgebra y Geometría Analítica",
+    "Matemática Discreta",
+    "Sistemas y Organizaciones (Integradora)",
+    "Algoritmo y Estructuras de Datos",
+    "Arquitectura de Computadoras",
+    "Física I",
+    "Inglés I",
+    "Química",
+    "Análisis Matemático II",
+    "Física II",
+    "Análisis de Sistemas (Integradora)",
+    "Sintaxis y Semántica de los Lenguajes",
+    "Paradigmas de Programación",
+    "Sistemas Operativos",
+    "Sistemas de Representación",
+    "Probabilidades y Estadísticas",
+    "Diseño de Sistemas (Integradora)",
+    "Comunicaciones",
+    "Matemática Superior",
+    "Gestión de Datos",
+    "Ingeniería y Sociedad",
+    "Economía",
+    "Inglés II",
+    "Electivas",
+    "Redes de Información",
+    "Administración de Recursos (Integradoras)",
+    "Investigación Operativa",
+    "Simulación",
+    "Ingeniería de Software",
+    "Teoría de Control",
+    "Legislación",
+    "Electivas",
+    "Proyecto Final (Integradora)",
+    "Inteligencia Artificial",
+    "Administración Gerencial",
+    "Sistemas de Gestión",
+    "Electivas"
+  ]
+}
